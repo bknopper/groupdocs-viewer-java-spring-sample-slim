@@ -44,7 +44,7 @@
         <aspose-slides.version>14.5.0</aspose-slides.version>
         <aspose-words.version>14.6.0</aspose-words.version>
         <aspose-diagram.version>2.1.0</aspose-diagram.version>
-        <registry.version>1.0.0</registry.version>
+        <registry.version>3.1.3</registry.version>
     </properties>
 	
     <dependencies>
